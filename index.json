@@ -9,5 +9,7 @@
     "8":{"name":"configurartionOBJ","url":"https://github.com/Arrera-Librairy/ConfigurationOBJ"},
     "9":{"name":"casetting","url":"https://github.com/Arrera-Librairy/casetting"},
     "10":{"name":"CJSONWORK","url":"https://github.com/Arrera-Librairy/CJSONWORK"},
-    "11":{"name":"gestionSoftWin","url":"https://github.com/Arrera-Librairy/gestionSoftWin"}
+    "11":{"name":"gestionSoftWin","url":"https://github.com/Arrera-Librairy/gestionSoftWin"},
+    "12":{"name":"csocketserveur","url":"https://github.com/Arrera-Librairy/CSocketServeur"},
+    "13":{"name":"csocketclient","url":"https://github.com/Arrera-Librairy/CSocketClient"}
 }
